@@ -1,5 +1,6 @@
-# windy weather
+# Windy weather
 
-![WindyWeather](https://user-images.githubusercontent.com/69526660/125188595-eb217980-e251-11eb-9f85-102de6e04df9.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/69526660/125190285-f5e00c80-e259-11eb-8749-456b54a13888.gif)
+
 
  
